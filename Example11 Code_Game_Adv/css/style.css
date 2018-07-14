@@ -1,0 +1,9 @@
+#myCanvas {
+    border: 2px solid black;
+    float:left;
+    margin: 20px;
+}
+  
+#controls {
+    float:left;
+}
